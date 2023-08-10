@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "title": "Laptop",
+        "description": "Laptop Asus",
+        "price": 2000,
+        "thumbnail": "Sin imagen",
+        "code": "ASU123",
+        "stock": 25
+    },
+    {
+        "id": 2,
+        "title": "Mouse",
+        "description": "Mouse Logitec",
+        "price": 300,
+        "thumbnail": "Sin imagen",
+        "code": "LOG234",
+        "stock": 50
+    },
+    {
+        "id": 3,
+        "title": "Teclado",
+        "description": "Teclado Logitec",
+        "price": 400,
+        "thumbnail": "Sin imagen",
+        "code": "TEL234",
+        "stock": 50
+    },
+    {
+        "id": 4,
+        "title": "Monitor",
+        "description": "Monitor LG",
+        "price": 3060,
+        "thumbnail": "Sin imagen",
+        "code": "MON234",
+        "stock": 50
+    },
+    {
+        "id": 5,
+        "title": "Cargador",
+        "description": "Cargador Lenovo",
+        "price": 300,
+        "thumbnail": "Sin imagen",
+        "code": "LEN234",
+        "stock": 50
+    },
+    {
+        "id": 6,
+        "title": "producto prueba 6",
+        "description": "Este es un producto prueba 6",
+        "price": 300,
+        "thumbnail": "Sin imagen",
+        "code": "pqr234",
+        "stock": 50
+    },
+    {
+        "id": 7,
+        "title": "producto prueba 7",
+        "description": "Este es un producto prueba 7",
+        "price": 300,
+        "thumbnail": "Sin imagen",
+        "code": "stu234",
+        "stock": 50
+    },
+    {
+        "id": 8,
+        "title": "producto prueba 8",
+        "description": "Este es un producto prueba 8",
+        "price": 300,
+        "thumbnail": "Sin imagen",
+        "code": "vwx234",
+        "stock": 50
+    },
+    {
+        "id": 9,
+        "title": "producto prueba 9",
+        "description": "Este es un producto prueba 9",
+        "price": 300,
+        "thumbnail": "Sin imagen",
+        "code": "yza234",
+        "stock": 50
+    },
+    {
+        "id": 10,
+        "title": "producto prueba 10",
+        "description": "Este es un producto prueba 10",
+        "price": 300,
+        "thumbnail": "Sin imagen",
+        "code": "bcd234",
+        "stock": 50
+    }
+  ]
